@@ -1,1 +1,8 @@
-# MCOC2020-P1
+# MCOC2020-P1 ✅
+
+## TOMÁS MUÑOZ JIMÉNEZ ✅
+
+## ENTREGA1 ✅
+
+  # GRÁFICO 📈
+  
