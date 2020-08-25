@@ -1,8 +1,10 @@
-# MCOC2020-P1 ✅
+# MCOC2020-P1  💻 🪐 💫
 
-## TOMÁS MUÑOZ JIMÉNEZ ✅
+## TOMÁS MUÑOZ JIMÉNEZ ✅ 
 
-## ENTREGA1 ✅
+## ENTREGA1 📚 🎳 💨 
 
-  # GRÁFICO 📈
+  # GRÁFICO 📈 ⤵️
   
+ ![alt text]( https://github.com/tomasmunozj/MCOC2020-P1/blob/master/BALISTICA.png?raw=true)
+ 
