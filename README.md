@@ -2,13 +2,13 @@
 
 ## TOMÁS MUÑOZ JIMÉNEZ ✅ 
 
-## ENTREGA1 📚 🎳 💨 
+# ENTREGA1 📚 🎳 💨 
 
-  # GRÁFICO 📈 ⤵️
+  ## GRÁFICO 📈 ⤵️
   
  ![alt text]( https://github.com/tomasmunozj/MCOC2020-P1/blob/master/BALISTICA.png?raw=true)
  
- ## ENTREGA2 📚 🪐🪐🪐
+# ENTREGA2 📚 🪐🪐🪐
  
  ![alt text](https://github.com/tomasmunozj/MCOC2020-P1/blob/master/Trayectoria%20satelite.png?raw=true)
  
