@@ -29,3 +29,9 @@
  
  ![alt text](https://github.com/tomasmunozj/MCOC2020-P1/blob/master/Figure%202020-09-07%20020216.png?raw=true)
  
+ ### parte 2:
+ 
+ ![alt text](https://github.com/tomasmunozj/MCOC2020-P1/blob/master/Figure%202020-09-07%20030105.png?raw=true)
+ ![alt text](https://github.com/tomasmunozj/MCOC2020-P1/blob/master/Figure%202020-09-07%20025756.png?raw=true)
+ 
+ 
