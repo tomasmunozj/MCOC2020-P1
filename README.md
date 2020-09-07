@@ -34,4 +34,9 @@
  ![alt text](https://github.com/tomasmunozj/MCOC2020-P1/blob/master/Figure%202020-09-07%20030105.png?raw=true)
  ![alt text](https://github.com/tomasmunozj/MCOC2020-P1/blob/master/Figure%202020-09-07%20025756.png?raw=true)
  
+ ## ALGUNOS COMENTARIOS:
+ 
+  * En la parte 2 se pueden observar las dos diferencias entre los graficos, las cuales son extremadamente notorias, resultando en mi caso, con mucha diferencia entre los tiempos
+  * Por otro lado, en cuanto a las Subdivisiones, en mi codigo, a medida que se aumentaban las subdivisiones el tiempo de ejecucion se incrementaba exponencialmente.
+ 
  
