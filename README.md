@@ -27,5 +27,5 @@
  
  ### parte 1:
  
- ![alt text](?raw=true)
+ ![alt text](https://github.com/tomasmunozj/MCOC2020-P1/blob/master/Figure%202020-09-07%20020216.png?raw=true)
  
