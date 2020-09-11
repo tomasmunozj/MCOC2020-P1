@@ -35,6 +35,8 @@
  
  ### Ahora veamos algunos gráficos, con la implementación de J2 y J3
  
+ ![alt text](https://github.com/tomasmunozj/MCOC2020-P1/blob/master/ENTREGA5/Figure%202020-09-11%20123059.png?raw=true)
+ 
 
  
  
