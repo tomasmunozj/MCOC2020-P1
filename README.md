@@ -25,18 +25,16 @@
  
  # ENTREGA 5 📚 🪐 💻
  
- ### parte 1:
+ ### A continuación, se observan los graficos pedidos, sin la implementación de J2 y J3 :
  
  ![alt text](https://github.com/tomasmunozj/MCOC2020-P1/blob/master/Figure%202020-09-07%20020216.png?raw=true)
  
- ### parte 2:
- 
  ![alt text](https://github.com/tomasmunozj/MCOC2020-P1/blob/master/Figure%202020-09-07%20030105.png?raw=true)
+ 
  ![alt text](https://github.com/tomasmunozj/MCOC2020-P1/blob/master/Figure%202020-09-07%20025756.png?raw=true)
  
- ## ALGUNOS COMENTARIOS:
+ ### Ahora veamos algunos gráficos, con la implementación de J2 y J3
  
-  * En la parte 2 se pueden observar las dos diferencias entre los graficos, las cuales son extremadamente notorias, resultando en mi caso, con mucha diferencia entre los tiempos
-  * Por otro lado, en cuanto a las Subdivisiones, en mi codigo, a medida que se aumentaban las subdivisiones el tiempo de ejecucion se incrementaba exponencialmente.
+
  
  
