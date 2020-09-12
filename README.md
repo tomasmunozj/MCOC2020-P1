@@ -37,6 +37,14 @@
  
  ![alt text](https://github.com/tomasmunozj/MCOC2020-P1/blob/master/ENTREGA5/Figure%202020-09-11%20123059.png?raw=true)
  
+ ### ALGUNOS COMENTARIOS DE LA ENTREGA ✅:
+ 
+   * Si observamos el gráfico de la posicion en (x,y,z) sin la implementacion de J2 y J3, observamos que para todos los ejes, la variación en Kms es de 10000, oscilando entre -5000 y 5000, lo cual en este grafico de posición, es muy similar al que contiene la implementación de J2 y J3, obteniendo mejoras en tiempo, pero no así en distancia, ya que las oscilaciones siguen siendo las mismas. Por otro lado, al implementar las subdivisiones, al aumentar estas, el tiempo de ejecución es demasiado, aumentando exponencialmente con el Nº de subdivisiones.
+   
+   * Si observamos el otro grafico (derivas) notamos que en mi caso, las diferencias son enormes entre odeint y eulerint, partiendo por el hecho de que las derivas del satelite son diferentes entre ambas, 500 Km v/s 5000 Km, y también en odeint, el aumento de la deriva con el tiempo tiene una "linealidad" mientras que eulerint, mantiene la oscilación vista anteriormente, pero mucho más constante.
+   
+   * En conclusion, se puede afirmar que la implementacion de J2 y J3, si provoca un cambio, pero no tan significativo, ya que para ver grandes cambios, es necesario la implementación y desarrollo de más terminos matematicos e incluso tomar en cuenta la incidencia de la luna.
+ 
 
  
  
